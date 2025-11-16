@@ -10,3 +10,4 @@ Unlike arrays, linked lists do not store elements in contiguous memory, making i
 
 ![SLL](images/sll.png)
 Code: singly_linked_list.py
+Reference: GeekforGeeks ![GFG](https://www.geeksforgeeks.org/dsa/linked-list-data-structure/)
