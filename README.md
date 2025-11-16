@@ -1,4 +1,6 @@
 ### Data Structures and Algorithms
+### Linked List
+A linked list is a linear data structure that stores a collection of "nodes" connected by links or pointers, not in a contiguous memory location like an array.
 
 #### Singly Linked List
 📖 Introduction
@@ -6,7 +8,6 @@ A Singly Linked List (SLL) is a linear data structure consisting of a sequence o
 Each node stores:
 - A value
 - A pointer/reference to the next node
-Unlike arrays, linked lists do not store elements in contiguous memory, making insertions and deletions efficient.
 
 ![SLL](images/sll.png)
 Code: singly_linked_list.py
